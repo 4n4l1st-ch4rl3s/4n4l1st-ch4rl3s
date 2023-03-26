@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Koome.</h1>
 <h3 align="center">A passionate developer and Cyber Security enthusiast.</h3>
-<div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-aspect-ratio="1.33333" data-width="400"><a href="https://tenor.com/view/hacking-gif-20202201">Hacking GIF</a>from <a href="https://tenor.com/search/hacking-gifs">Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4n4l1st-ch4rl3s&label=Profile%20views&color=0e75b6&style=flat" alt="4n4l1st-ch4rl3s" /> </p>
 
