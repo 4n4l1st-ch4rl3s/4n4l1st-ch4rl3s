@@ -20,5 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4n4l1st-ch4rl3s&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=4n4l1st-ch4rl3s&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=4n4l1st-ch4rl3s&theme=radical" alt="GitHub Streak" /></a>
 
